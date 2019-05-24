@@ -6,11 +6,11 @@
 
 ## GENERATED METRICS - POPULAR TOPICS
 [Brexit Metrics](https://github.com/murchie85/BREXIT-TWITTER/blob/master/BREXIT.ipynb ) |    
+<img src="brexit.png" alt="drawing" width="200"/>
 
-![image](brexit.png){width=250px}
 
 [Theressa May - Twitter Metrics](https://github.com/murchie85/MAY-TWITTER-ANALYSIS/blob/master/May.ipynb) | 
-![image](may.png){width=250px}
+<img src="may.png" alt="drawing" width="200"/>
 
 [Abortion & Alabama Metrics](https://github.com/murchie85/-ALABAMA-Metrics/blob/master/ALABAMA.ipynb) |  
 
