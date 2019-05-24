@@ -3,12 +3,12 @@
 
 ![](https://cdn.makeawebsitehub.com/wp-content/uploads/2016/06/social-media-chalks-embossed-icons-1.jpg)
 
-&#x1F34E; **AUTHOR = "@McMurchie"**
+&#x1F34E; **AUTHOR = @McMurchie**
 
 ## GENERATED METRICS - POPULAR TOPICS
  
 
-**THANKS** for landing here! This page links to social media objectivity reports I have generated on trending topics, they now include google trends (what people were searching). The aim of this project is to help depolarize social media and western society in gneral by shining light on what people are **ACTUALLY** saying, and not what our own self contained echo-chamber tells us 
+**THANKS** for landing here! This page links to social media objectivity reports I have generated on trending topics, they now include google trends *(what people are searching)* . The aim of this project is to help depolarize social media and western society in gneral by shining light on what people are **ACTUALLY** saying, and not what our own self contained echo-chamber tells us 
 
 I do take requests *in fact I would love some* , below are a list of the reports so far, click on them to see the results: 
 
