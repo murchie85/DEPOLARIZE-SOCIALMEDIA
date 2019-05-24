@@ -1,5 +1,5 @@
 # DEPOLARIZE & RENORMALIZE 
-&#x1F34E; **TOPIC = "#DIVERSITYNOTADVERSITY"**
+&#x1F34E; **AUTHOR = "@McMurchie"**
 
 ![](https://smallbiztrends.com/wp-content/uploads/2016/05/shutterstock_311472353-850x476.jpg)
 
@@ -7,6 +7,9 @@
 ## GENERATED METRICS - POPULAR TOPICS
 [Brexit Metrics](https://github.com/murchie85/BREXIT-TWITTER/blob/master/BREXIT.ipynb ) |    
 
+**THANKS** for landing here! This page links to social media objectivity reports I have generated on trending topics, they now include google trends (what people were searching). The aim of this project is to help depolarize social media and western society in gneral by shining light on what people are **ACTUALLY** saying, and not what our own self contained echo-chamber tells us 
+
+I do take requests *in fact I would love some* , below are a list of the reports so far, click on them to see the results: 
 
 
 Brexit Analytics           |  Click Link above for full report
