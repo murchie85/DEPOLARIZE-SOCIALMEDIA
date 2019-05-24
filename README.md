@@ -10,7 +10,7 @@
 
 BrexitMetrics           |  BrexitMetrics
 :-------------------------:|:-------------------------:
-![](brexit.png)  |  ![](brexitbio.jpg
+![](brexit.png)  |  ![](brexitbio.jpg)
 
 
 [Theressa May - Twitter Metrics](https://github.com/murchie85/MAY-TWITTER-ANALYSIS/blob/master/May.ipynb) | 
