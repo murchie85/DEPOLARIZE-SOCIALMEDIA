@@ -7,10 +7,10 @@
 ## GENERATED METRICS - POPULAR TOPICS
 [Brexit Metrics](https://github.com/murchie85/BREXIT-TWITTER/blob/master/BREXIT.ipynb ) |    
 
-![image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/03/29/17/brexit-parliament-protests-3.jpg =250x)
+![image](brexit.jpg =250x)
 
 [Theressa May - Twitter Metrics](https://github.com/murchie85/MAY-TWITTER-ANALYSIS/blob/master/May.ipynb) | 
-![image](https://timedotcom.files.wordpress.com/2019/03/theresa-may-brexit-politics.jpg =250x)
+![image](may.jpg =250x)
 
 [Abortion & Alabama Metrics](https://github.com/murchie85/-ALABAMA-Metrics/blob/master/ALABAMA.ipynb) |  
 
