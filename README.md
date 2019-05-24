@@ -17,6 +17,10 @@
 </div>
 
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+<img src="brexitbio.jpg" alt="drawing" align="center" width="400"/> |  <img src="brexitbio.jpg" alt="drawing" align="center" width="400"/>
+
 [Theressa May - Twitter Metrics](https://github.com/murchie85/MAY-TWITTER-ANALYSIS/blob/master/May.ipynb) | 
 
 <img src="may.png" alt="drawing" align="center" width="500"/>
