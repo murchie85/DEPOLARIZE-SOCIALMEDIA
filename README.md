@@ -1,7 +1,7 @@
 # DEPOLARIZE & RENORMALIZE 
 &#x1F34E; **AUTHOR = "@McMurchie"**
 
-![](https://smallbiztrends.com/wp-content/uploads/2016/05/shutterstock_311472353-850x476.jpg)
+![](https://cdn.makeawebsitehub.com/wp-content/uploads/2016/06/social-media-chalks-embossed-icons-1.jpg)
 
 
 ## GENERATED METRICS - POPULAR TOPICS
@@ -18,8 +18,8 @@ I do take requests *in fact I would love some* , below are a list of the reports
 :-------------------------:|:-------------------------:
 <a href="https://github.com/murchie85/TwitterStreamFilter/blob/master/SEXSTRIKE.ipynb"><img src="sexstrike.jpg" alt="drawing" align="center" width="400"/> |  <img src="sexmetrics.jpg" alt="drawing" align="center" width="400"/></a>
 
-[Brexit Metrics](https://github.com/murchie85/BREXIT-TWITTER/blob/master/BREXIT.ipynb ) | 🇬🇧   
-  
+[Brexit Metrics](https://github.com/murchie85/BREXIT-TWITTER/blob/master/BREXIT.ipynb ) | 🇬🇧 🇬🇧 🇬🇧 
+
 #Brexit Analytics           |  Click Link above for full report
 :-------------------------:|:-------------------------:
 <a href="https://github.com/murchie85/BREXIT-TWITTER/blob/master/BREXIT.ipynb"><img src="brexit.png" alt="drawing" align="center" width="400"/> |  <img src="brexitbio.jpg" alt="drawing" align="center" width="400"/></a>
