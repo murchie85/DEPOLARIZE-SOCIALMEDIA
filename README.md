@@ -6,7 +6,11 @@
 
 ## GENERATED METRICS - POPULAR TOPICS
 [Brexit Metrics](https://github.com/murchie85/BREXIT-TWITTER/blob/master/BREXIT.ipynb ) |    
-<img src="brexit.png" alt="drawing" align="center" width="500"/>
+
+
+BrexitMetrics           |  BrexitMetrics
+:-------------------------:|:-------------------------:
+![](brexit.png)  |  ![](brexitbio.jpg
 
 
 [Theressa May - Twitter Metrics](https://github.com/murchie85/MAY-TWITTER-ANALYSIS/blob/master/May.ipynb) | 
