@@ -12,14 +12,21 @@
 I do take requests *in fact I would love some* , below are a list of the reports so far, click on them to see the results: 
 
 
-Brexit Analytics           |  Click Link above for full report
+[SexStrike metrics](https://github.com/murchie85/TwitterStreamFilter/blob/master/SEXSTRIKE.ipynb) |  
+
+#SEXSTRIKE Analytics           |  Click Link above for full report
+:-------------------------:|:-------------------------:
+<a href="https://github.com/murchie85/TwitterStreamFilter/blob/master/SEXSTRIKE.ipynb"><img src="sexstrike.jpg" alt="drawing" align="center" width="400"/> |  <img src="sexmetrics.jpg" alt="drawing" align="center" width="400"/></a>
+
+
+#Brexit Analytics           |  Click Link above for full report
 :-------------------------:|:-------------------------:
 <a href="https://github.com/murchie85/BREXIT-TWITTER/blob/master/BREXIT.ipynb"><img src="brexit.png" alt="drawing" align="center" width="400"/> |  <img src="brexitbio.jpg" alt="drawing" align="center" width="400"/></a>
 
 [Theressa May - Twitter Metrics](https://github.com/murchie85/MAY-TWITTER-ANALYSIS/blob/master/May.ipynb) | 
 
 
-May Analytics           |  Click Link above for full report
+#May Analytics           |  Click Link above for full report
 :-------------------------:|:-------------------------:
 <a href="https://github.com/murchie85/MAY-TWITTER-ANALYSIS/blob/master/May.ipynb"><img src="may.png" alt="drawing" align="center" width="400"/> |  <img src="maytweet.jpg" alt="drawing" align="center" width="400"/></a>
 
@@ -29,8 +36,4 @@ Abortion/Alabama Analytics           |  Click Link above for full report
 :-------------------------:|:-------------------------:
 <a href="https://github.com/murchie85/-ALABAMA-Metrics/blob/master/ALABAMA.ipynb"><img src="alabama.jpg" alt="drawing" align="center" width="400"/> |  <img src="alabamatweet.jpg" alt="drawing" align="center" width="400"/></a>
 
-[SexStrike metrics](https://github.com/murchie85/TwitterStreamFilter/blob/master/SEXSTRIKE.ipynb) |  
 
-May Analytics           |  Click Link above for full report
-:-------------------------:|:-------------------------:
-<a href="https://github.com/murchie85/TwitterStreamFilter/blob/master/SEXSTRIKE.ipynb"><img src="sexstrike.jpg" alt="drawing" align="center" width="400"/> |  <img src="sexmetrics.jpg" alt="drawing" align="center" width="400"/></a>
