@@ -1,8 +1,9 @@
 # DEPOLARIZE & RENORMALIZE 
-&#x1F34E; **AUTHOR = "@McMurchie"**
+
 
 ![](https://cdn.makeawebsitehub.com/wp-content/uploads/2016/06/social-media-chalks-embossed-icons-1.jpg)
 
+&#x1F34E; **AUTHOR = "@McMurchie"**
 
 ## GENERATED METRICS - POPULAR TOPICS
  
