@@ -1,5 +1,5 @@
 # DEPOLARIZE & RENORMALIZE 
-&#x1F34E; **TOPIC = "Theresa May"**
+&#x1F34E; **TOPIC = "#DIVERSITYNOTADVERSITY"**
 
 ![](https://smallbiztrends.com/wp-content/uploads/2016/05/shutterstock_311472353-850x476.jpg)
 
