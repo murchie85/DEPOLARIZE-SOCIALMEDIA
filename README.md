@@ -5,7 +5,7 @@
 
 &#x1F34E; **AUTHOR = @McMurchie**
 
-## GENERATED METRICS - POPULAR TOPICS
+## GENERATED METRICS - SHINING A LIGHT ON WHAT PEOPLE ARE ACTUALLY SAYING
  
 
 **THANKS** for landing here! This page links to social media objectivity reports I have generated on trending topics, they now include google trends *(what people are searching)* . The aim of this project is to help depolarize social media and western society in gneral by shining light on what people are **ACTUALLY** saying, and not what our own self contained echo-chamber tells us 
