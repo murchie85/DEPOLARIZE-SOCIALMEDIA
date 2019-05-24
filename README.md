@@ -9,10 +9,10 @@
 
 <div class="row">
   <div class="column">
-    <img src="brexit.png" alt="drawing" align="center" width="500"/>
+    <img src="brexit.png" alt="drawing" align="center" width="400"/>
   </div>
   <div class="column">
-    <img src="brexitbio.jpg" alt="drawing" align="center" width="500"/>
+    <img src="brexitbio.jpg" alt="drawing" align="center" width="400"/>
   </div>
 </div>
 
