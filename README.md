@@ -18,12 +18,16 @@ Brexit Analytics           |  Click Link above for full report
 
 May Analytics           |  Click Link above for full report
 :-------------------------:|:-------------------------:
-<img src="may.png" alt="drawing" align="center" width="400"/> |  <img src="brexitbio.jpg" alt="drawing" align="center" width="400"/>
+<img src="may.png" alt="drawing" align="center" width="400"/> |  <img src="maytweet.jpg" alt="drawing" align="center" width="400"/>
 
 [Abortion & Alabama Metrics](https://github.com/murchie85/-ALABAMA-Metrics/blob/master/ALABAMA.ipynb) |  
 
-![image](https://thenypost.files.wordpress.com/2019/05/alabama-abortion-ban.jpg?quality=90&strip=all&w=618&h=410&crop=1)
+Abortion/Alabama Analytics           |  Click Link above for full report
+:-------------------------:|:-------------------------:
+<img src="alabama.jpg" alt="drawing" align="center" width="400"/> |  <img src="alabamatweet.jpg" alt="drawing" align="center" width="400"/>
 
 [SexStrike metrics](https://github.com/murchie85/TwitterStreamFilter/blob/master/SEXSTRIKE.ipynb) |  
 
-![image](https://i.ytimg.com/vi/VCJfT9CTuds/maxresdefault.jpg)
+May Analytics           |  Click Link above for full report
+:-------------------------:|:-------------------------:
+<img src="sexstrike.jpg" alt="drawing" align="center" width="400"/> |  <img src="sexmetrics.jpg" alt="drawing" align="center" width="400"/>
