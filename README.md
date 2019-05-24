@@ -7,23 +7,18 @@
 ## GENERATED METRICS - POPULAR TOPICS
 [Brexit Metrics](https://github.com/murchie85/BREXIT-TWITTER/blob/master/BREXIT.ipynb ) |    
 
-<div class="row">
-  <div class="column">
-    <img src="brexit.png" alt="drawing" align="center" width="400"/>
-  </div>
-  <div class="column">
-    <img src="brexitbio.jpg" alt="drawing" align="center" width="400"/>
-  </div>
-</div>
 
 
-Solarized dark             |  Solarized Ocean
+Brexit Analytics           |  Click Link above for full report
 :-------------------------:|:-------------------------:
 <img src="brexit.png" alt="drawing" align="center" width="400"/> |  <img src="brexitbio.jpg" alt="drawing" align="center" width="400"/>
 
 [Theressa May - Twitter Metrics](https://github.com/murchie85/MAY-TWITTER-ANALYSIS/blob/master/May.ipynb) | 
 
-<img src="may.png" alt="drawing" align="center" width="500"/>
+
+May Analytics           |  Click Link above for full report
+:-------------------------:|:-------------------------:
+<img src="may.png" alt="drawing" align="center" width="400"/> |  <img src="brexitbio.jpg" alt="drawing" align="center" width="400"/>
 
 [Abortion & Alabama Metrics](https://github.com/murchie85/-ALABAMA-Metrics/blob/master/ALABAMA.ipynb) |  
 
