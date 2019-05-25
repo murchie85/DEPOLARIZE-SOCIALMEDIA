@@ -20,6 +20,7 @@ I do take requests *in fact I would love some* , below are a list of the reports
 :-------------------------:|:-------------------------:
 <a href="https://github.com/murchie85/TwitterStreamFilter/blob/master/SEXSTRIKE.ipynb"><img src="sexstrike.jpg" alt="drawing" align="center" width="400"/> |  <img src="sexmetrics.jpg" alt="drawing" align="center" width="400"/></a>
 
+[TRUMP metrics]("https://github.com/murchie85/TRUMP-TWITTER-ANALYTICS/blob/master/TRUMP%20HISTORICAL%20ANALYSIS.ipynb") |  🇺🇸🇺🇸🇺🇸
 
 #TRUMP Analytics           |  Click Link above for full report
 :-------------------------:|:-------------------------:
