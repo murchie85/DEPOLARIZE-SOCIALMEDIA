@@ -24,7 +24,7 @@ I do take requests *in fact I would love some* , below are a list of the reports
 
 #TRUMP Analytics           |  Click Link above for full report
 :-------------------------:|:-------------------------:
-<a href="https://github.com/murchie85/TRUMP-TWITTER-ANALYTICS/blob/master/TRUMP%20HISTORICAL%20ANALYSIS.ipynb"><img src="trump.jpg" alt="drawing" align="center" width="400"/> |  <img src="trump.jpg" alt="drawing" align="center" width="400"/></a>
+<a href="https://github.com/murchie85/TRUMP-TWITTER-ANALYTICS/blob/master/TRUMP%20HISTORICAL%20ANALYSIS.ipynb"><img src="trump.jpg" alt="drawing" align="center" width="400"/> |  <img src="trumpdata.jpg" alt="drawing" align="center" width="400"/></a>
 
 
 
