@@ -30,7 +30,7 @@ I do take requests *in fact I would love some* , below are a list of the reports
 
 #EU Election Analytics           |  Click Link above for full report
 :-------------------------:|:-------------------------:
-<a href="https://github.com/murchie85/EU-Election-Twitter-Analysis-2019/blob/master/EU-ANALYSIS.ipynb"><img src="eu.jpg" alt="drawing" align="center" width="400"/> |  <img src="eutweets.jpg" alt="drawing" align="center" width="400"/></a>
+<a href="https://github.com/murchie85/EU-Election-Twitter-Analysis-2019/blob/master/EU-ANALYSIS.ipynb"><img src="eu.png" alt="drawing" align="center" width="400"/> |  <img src="eutweets.png" alt="drawing" align="center" width="400"/></a>
 
 
 
