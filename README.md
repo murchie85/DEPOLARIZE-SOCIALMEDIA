@@ -26,6 +26,13 @@ I do take requests *in fact I would love some* , below are a list of the reports
 :-------------------------:|:-------------------------:
 <a href="https://github.com/murchie85/TRUMP-TWITTER-ANALYTICS/blob/master/TRUMP%20HISTORICAL%20ANALYSIS.ipynb"><img src="trump.jpg" alt="drawing" align="center" width="400"/> |  <img src="trumpdata.jpg" alt="drawing" align="center" width="400"/></a>
 
+[EU REF metrics]("https://github.com/murchie85/EU-Election-Twitter-Analysis-2019/blob/master/EU-ANALYSIS.ipynb") | 🇪🇺🇪🇺🇪🇺
+
+#EU Election Analytics           |  Click Link above for full report
+:-------------------------:|:-------------------------:
+<a href="https://github.com/murchie85/EU-Election-Twitter-Analysis-2019/blob/master/EU-ANALYSIS.ipynb"><img src="eu.jpg" alt="drawing" align="center" width="400"/> |  <img src="eutweets.jpg" alt="drawing" align="center" width="400"/></a>
+
+
 
 
 [Brexit Metrics](https://github.com/murchie85/BREXIT-TWITTER/blob/master/BREXIT.ipynb ) | 🇬🇧 🇬🇧 🇬🇧 
