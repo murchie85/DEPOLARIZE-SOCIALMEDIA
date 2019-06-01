@@ -14,11 +14,11 @@
 I do take requests *in fact I would love some* , below are a list of the reports so far, click on them to see the results: 
 
 
-[SexStrike metrics](https://github.com/murchie85/TwitterStreamFilter/blob/master/SEXSTRIKE.ipynb) |  💛 💙 💜 ❤️ 💚
+[SexStrike metrics](https://github.com/murchie85/SexStrike-Twitter-Analytics/blob/master/SEXSTRIKE/SEXSTRIKE.ipynb) |  💛 💙 💜 ❤️ 💚
 
 #SEXSTRIKE Analytics           |  Click Link above for full report
 :-------------------------:|:-------------------------:
-<a href="https://github.com/murchie85/TwitterStreamFilter/blob/master/SEXSTRIKE.ipynb"><img src="sexstrike.jpg" alt="drawing" align="center" width="400"/> |  <img src="sexmetrics.jpg" alt="drawing" align="center" width="400"/></a>
+<a href="https://github.com/murchie85/SexStrike-Twitter-Analytics/blob/master/SEXSTRIKE/SEXSTRIKE.ipynb"><img src="sexstrike.jpg" alt="drawing" align="center" width="400"/> |  <img src="sexmetrics.jpg" alt="drawing" align="center" width="400"/></a>
 
 [TRUMP metrics]("https://github.com/murchie85/TRUMP-TWITTER-ANALYTICS/blob/master/TRUMP%20HISTORICAL%20ANALYSIS.ipynb") |  🇺🇸🇺🇸🇺🇸
 
