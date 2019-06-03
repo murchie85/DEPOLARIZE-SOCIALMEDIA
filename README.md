@@ -14,7 +14,6 @@
 I do take requests *in fact I would love some* , below are a list of the reports so far, click on them to see the results: 
 
 
-<<<<<<< HEAD
 [Immigration metrics](https://github.com/murchie85/twitterlitics-immigration-june/blob/master/Immigration.ipynb) |  🌍 🌎 🌏
 
 #Immigration Analytics           |  Click Link above for full report
@@ -24,9 +23,6 @@ I do take requests *in fact I would love some* , below are a list of the reports
 
 
 [SexStrike metrics](https://github.com/murchie85/TwitterStreamFilter/blob/master/SEXSTRIKE.ipynb) |  💛 💙 💜 ❤️ 💚
-=======
-[SexStrike metrics](https://github.com/murchie85/SexStrike-Twitter-Analytics/blob/master/SEXSTRIKE/SEXSTRIKE.ipynb) |  💛 💙 💜 ❤️ 💚
->>>>>>> 12ab37dea6cc48f0773f1ea450ee1f3a04dc7078
 
 #SEXSTRIKE Analytics           |  Click Link above for full report
 :-------------------------:|:-------------------------:
