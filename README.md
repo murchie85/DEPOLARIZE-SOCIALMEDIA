@@ -7,7 +7,7 @@
 
 # SOCIAL INTELLIGENCE = SOCIAL BENEVOLENCE
 
-## ANALYTICS ON TWEETING TRENDS 
+**ANALYTICS ON TWEETING TRENDS** 
 
 **THANKS** for landing here! This page links to social media objectivity reports *(i.e. what people tweet, their bio's background)* I have generated on trending topics, they now include google trends *(what people are searching)* . The aim of this project is to help depolarize social media and western society in general by shining light on what people are **ACTUALLY** saying, and not what our own self contained echo-chamber tells us 
 
