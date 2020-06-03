@@ -14,7 +14,7 @@
 I do take requests *in fact I would love some* , below are a list of the reports so far, click on them to see the results: 
 
 
-[Black Lives matter](https://github.com/murchie85/DEPOLARIZE-SOCIALMEDIA/3june2020) |  🌍 🌎 🌏
+[Black Lives matter](https://github.com/murchie85/DEPOLARIZE-SOCIALMEDIA/tree/master/3june2020) |  🌍 🌎 🌏
 
 #blacklifematters Analytics           |  Click Link above for full report
 :-------------------------:|:-------------------------:
