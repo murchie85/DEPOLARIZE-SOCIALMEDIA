@@ -18,7 +18,7 @@ I do take requests *in fact I would love some* , below are a list of the reports
 
 #blacklifematters Analytics           |  Click Link above for full report
 :-------------------------:|:-------------------------:
-<a href="https://github.com/murchie85/DEPOLARIZE-SOCIALMEDIA/tree/master/3june2020/README.md"><img src="https://github.com/murchie85/DEPOLARIZE-SOCIALMEDIA/blob/master/3june2020/twitterPostedImage.png" alt="drawing" align="center" width="400"/> |  <img src="TWEETS.png" alt="drawing" align="center" width="400"/></a>
+<a href="https://github.com/murchie85/DEPOLARIZE-SOCIALMEDIA/tree/master/3june2020/README.md"><img src="https://github.com/murchie85/DEPOLARIZE-SOCIALMEDIA/blob/master/3june2020/twitterPostedImage.png" alt="drawing" align="center" width="400"/> |  <img src="https://github.com/murchie85/DEPOLARIZE-SOCIALMEDIA/blob/master/3june2020/TWEETS.png" alt="drawing" align="center" width="400"/></a>
 
 
 
