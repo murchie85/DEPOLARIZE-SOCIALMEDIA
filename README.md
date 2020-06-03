@@ -14,6 +14,14 @@
 I do take requests *in fact I would love some* , below are a list of the reports so far, click on them to see the results: 
 
 
+[Black Lives matter](https://github.com/murchie85/DEPOLARIZE-SOCIALMEDIA/3june2020) |  🌍 🌎 🌏
+
+#blacklifematters Analytics           |  Click Link above for full report
+:-------------------------:|:-------------------------:
+<a href="https://github.com/murchie85/DEPOLARIZE-SOCIALMEDIA/3june2020/README.md"><img src="3june2020/twitterPostedImage.jpeg" alt="drawing" align="center" width="400"/> |  <img src="june2020/TWEETS.png" alt="drawing" align="center" width="400"/></a>
+
+
+
 [Immigration metrics](https://github.com/murchie85/twitterlitics-immigration-june/blob/master/Immigration.ipynb) |  🌍 🌎 🌏
 
 #Immigration Analytics           |  Click Link above for full report
